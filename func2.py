@@ -1,1 +1,1 @@
-print("just wanyed to say hi")
+print("just wanted to say hi")
