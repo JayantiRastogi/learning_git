@@ -1,8 +1,12 @@
-def add(a,b):
-    return a+b
+def add(a,b,c):
+    return a+b+c
 
 
 def sub(a,b,c):
     return a-b-c
 
-print("this file performs addition and subtractiuon for three numbers")
+# <<<<<<< branch2
+# print("this file performs addition and subtractiuon for three numbers"
+# =======
+print("this file performs addition for three and subtraction for two numbers")
+# >>>>>>> main
